@@ -1,0 +1,39 @@
+[
+    {
+    "model": "Store.product",
+    "pk": 1,
+    "fields": {
+        "name": "Apples",
+        "price": "100.00", 
+        "description": "Good apples"
+        }
+        },
+        {
+        "model": "Store.product",
+        "pk": 2,
+        "fields": {
+        "name": "Grapes",
+        "price": "259.99", 
+        "description": "very good quality grapes"
+        }
+        }, 
+        {
+            "model": "Store.product",
+            "pk": 3,
+            "fields": {
+            "name": "Oranges",
+            "price": "259.99", 
+            "description": "very good quality oranges"
+            }
+            }, 
+            {
+                "model": "Store.product",
+                "pk": 4,
+                "fields": {
+                "name": "Pears",
+                "price": "256.99", 
+                "description": "very good quality pears"
+                }
+                }
+
+        ]
